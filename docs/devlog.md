@@ -60,3 +60,4 @@
 - 2026-08-01: progress note 1
 - 2026-08-01: progress note 2
 - 2026-08-01: progress note 3
+- 2026-08-02: progress note 1
