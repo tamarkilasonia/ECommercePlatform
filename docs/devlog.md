@@ -97,3 +97,4 @@
 - 2026-08-18: progress note 3
 - 2026-08-19: progress note 1
 - 2026-08-20: progress note 1
+- 2026-08-20: progress note 2
