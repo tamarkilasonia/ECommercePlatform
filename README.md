@@ -2,6 +2,8 @@
 
 A reference .NET application implementing an e-commerce website using a services-based architecture with [Aspire](https://aspire.dev/).
 
+> This repository is based on [dotnet/eShop](https://github.com/dotnet/eShop), licensed under the [MIT License](LICENSE).
+
 ![eShop Reference Application architecture diagram](img/eshop_architecture.png)
 
 ![eShop homepage screenshot](img/eshop_homepage.png)
