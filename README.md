@@ -41,10 +41,6 @@ No separate Aspire workload or Visual Studio component is required; the AppHost 
 - [Visual Studio Code with C# Dev Kit](https://code.visualstudio.com/docs/csharp/get-started) and the [Aspire extension](https://aspire.dev/get-started/aspire-vscode-extension/).
 - The [.NET MAUI workload](https://learn.microsoft.com/dotnet/maui/get-started/installation) if you want to run the client apps.
 
-### Running the solution
-
-> [!WARNING]
-> Ensure that your container runtime is running before starting eShop.
 
 #### From the terminal
 
