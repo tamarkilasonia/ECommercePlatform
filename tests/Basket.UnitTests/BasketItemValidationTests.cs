@@ -19,7 +19,7 @@ public class BasketItemValidationTests
 
         Assert.HasCount(1, results);
         Assert.AreEqual("Invalid number of units", results[0].ErrorMessage);
-        CollectionAssert.Contains(results[0].MemberNames.ToList(), "Quantity");
+        Assert.Contains("Quantity", results[0].MemberNames);
     }
 
     [TestMethod]
